@@ -1,2 +1,2 @@
 # lgtsteroids
-Logtalk port of the plsteroids library.
+Logtalk port of the [plsteroids](https://github.com/edisonm/plsteroids) library.

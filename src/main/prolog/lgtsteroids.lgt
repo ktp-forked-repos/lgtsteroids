@@ -1,6 +1,5 @@
 :- object(lgtsteroids, extends(plsteroids)).
 
-    :- protected(source_extensions/1).
     source_extensions(Extensions) :-
         ^^source_extensions(PrologExtensions),
         lgt_source_extensions(LogtalkExtensions),
